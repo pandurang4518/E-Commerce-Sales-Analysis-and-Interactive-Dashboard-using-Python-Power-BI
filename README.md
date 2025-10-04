@@ -73,7 +73,7 @@ The **Power BI dashboard** highlights:
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview]("Ecommerce Sales Analysis & Dashboard.pbix")
 
 ---
 
